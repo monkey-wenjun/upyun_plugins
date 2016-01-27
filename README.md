@@ -67,3 +67,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 = 1.0.0 =
 * released the first version.
+
+####INSTALL
+
+      cd /www/wp-content/plugins/
+      git clone https://github.com/monkey-wenjun/upyun_plugins.git
+
