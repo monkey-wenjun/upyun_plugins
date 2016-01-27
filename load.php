@@ -2,10 +2,10 @@
 /*
 Plugin Name: 又拍云插件
 Version: 1.2.2
-Plugin URI: http://cuelog.com/?p=43
+Plugin URI: https://www.fangwenjun.com
 Description: 又拍云储存插件， 在后台中上传附件时，自动将附件上传到又拍云； 本地服务器与又拍云空间所有附件一键上传/下载;
 Author: Cuelog
-Author URI: http://cuelog.com
+Author URI: https://www.fangwenjun.com
 */
 
 if(is_admin()){
