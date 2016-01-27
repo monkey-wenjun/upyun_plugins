@@ -1,30 +1,27 @@
 # upyun_plugins
 wordpress upyun cdn plugins
 
-=== Upyun For Wordpress ===
-Contributors: Cuelog
-Donate link:  https://me.alipay.com/cuelog
-Tags: 又拍云, 云储存, upyun, CDN, autosave, remote, attachment
-Requires at least: 3.5
-Tested up to: 3.6
-Stable tag: 1.2.2
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+=== Upyun For Wordpress ===     
+Requires at least: 3.5   
+Tested up to: 3.6   
+Stable tag: 1.2.3   
+License: GPLv2 or later   
+License URI: http://www.gnu.org/licenses/gpl-2.0.html  
 
-使用又拍云储存为你的WordPress站点提供静态文件CDN加速
+使用又拍云储存为你的WordPress站点提供静态文件CDN加速    
 
-== Description ==
+== Description ==   
 
-专业云储存，又拍云值得你信赖
+专业云储存，又拍云值得你信赖   
 
-通过本插件上传的附件，会自动上传到又拍云储存中；
-另外的一个特色功能是可以保存远程图片到本地服务器和又拍云空间；
-后台提供便捷的一键上传/下载功能；
+通过本插件上传的附件，会自动上传到又拍云储存中；   
+另外的一个特色功能是可以保存远程图片到本地服务器和又拍云空间；   
+后台提供便捷的一键上传/下载功能；   
 
-== Installation ==
+== Installation ==   
 
-* 1.在线安装或将插件上传至WordPress的插件目录中并在后台启用；
-* 2.填写需要的参数几个参数保存后即可；
+* 1.在线安装或将插件上传至WordPress的插件目录中并在后台启用；  
+* 2.填写需要的参数几个参数保存后即可；  
 * 3.像以往一样在媒体库上传文件时，会自动将文件上传到又拍云；
 * 4.请确保一切附件上传至又拍云后，再启用又拍云服务；
 
