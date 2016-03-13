@@ -10,5 +10,5 @@ wordpress upyun cdn plugins
 
       cd /www/wp-content/plugins/
       git clone https://github.com/monkey-wenjun/upyun_plugins.git
-      
+      mv upyun_plugins upyun
 2.登录WordPress后台开启插件      
