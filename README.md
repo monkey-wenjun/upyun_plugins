@@ -4,7 +4,9 @@ wordpress upyun cdn plugins
 === Upyun For Wordpress ===     
 
 
-####INSTALL
+### 视频教程
+https://techs.b0.upaiyun.com/videos/cdnpage/wordpress.html
+### INSTALL
 
 1.下载插件复制到plugins目录
 
