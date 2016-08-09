@@ -572,7 +572,7 @@ class UpYunCloud {
 			</tr>
 			<tr valign="top">
 				<th scope="row">操作员密码:</th>
-				<td><input name="admin_password" type="text" class="regular-text" size="100" id="rest_server" value="<?php echo $size_res === false ? $this->option['admin_password'] : null; ?>" /> <span class="description">操作员密码（连接成功后不显示）</span></td>
+				<td><input name="admin_password" type="password" class="regular-text" size="100" id="rest_server" value="<?php echo $size_res === false ? $this->option['admin_password'] : null; ?>" /> <span class="description">操作员密码（连接成功后不显示）</span></td>
 			</tr>
 			<tr valign="top">
 				<th scope="row">文件存放的根目录:</th>
