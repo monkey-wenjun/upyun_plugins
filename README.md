@@ -1,8 +1,9 @@
 # upyun_plugins
 wordpress upyun cdn plugins
 
-=== Upyun For Wordpress ===     
+=== Upyun For Wordpress === 
 
+本插件为第三方提供，原作者cuelog，
 
 ### 视频教程
 https://techs.b0.upaiyun.com/videos/cdnpage/wordpress.html

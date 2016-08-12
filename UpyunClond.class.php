@@ -1,9 +1,9 @@
 <?php
 /**
  * 
- * @author fangwenjun
- * @link http://www.fangwenjun.com
- * @copyright 2016 fangwenjun
+ * @author cuelog
+ * @link http://www.cuelog.com
+ * @copyright 2016 cuelog
  */
 class UpYunCloud {
 	
@@ -661,7 +661,7 @@ class UpYunCloud {
 	</div>
 	<p id="delete_result" style="color:red;display:none;"></p>
 	<input type="submit" class="button-primary" id="btn_delete" value="开始删除" />
-	<div style="padding: 30px 10px 0;text-align: right;"><b>By :</b> <a href="https://www.fangwenjun.com" target="_blank">fangwenjun.com</a></div>
+	<div style="padding: 30px 10px 0;text-align: right;"><b>By :</b> <a href="https://www.cuelog.com" target="_blank">cuelog.com</a></div>
 <?php }?>
 	
 	<script type="text/javascript">
