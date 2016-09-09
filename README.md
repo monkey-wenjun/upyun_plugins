@@ -15,5 +15,4 @@ https://techs.b0.upaiyun.com/videos/cdnpage/wordpress.html
       git clone https://github.com/monkey-wenjun/upyun_plugins.git
       mv upyun_plugins upyun
 2.登录WordPress后台开启插件      
-
-3.如果启用了 HTTPS ，插件本身是不支持 HTTPS，但是可以通过 [display upload_path and upload_url_path for WordPress3.5](https://wordpress.org/plugins/030-ps-display-upload-path-for-wp35/)  这个插件去修改图片的访问链接，具体是安装完插件后，点击 设置 --> 多媒体-->>设置，找到 “文件的完整 URL 地址为你又拍云的 HTTPS 地址”，例如  ”https://file.b0.upaiyun.com/“ 
+3.配置相关参数 点击开启插件
